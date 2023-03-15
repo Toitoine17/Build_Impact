@@ -1,0 +1,669 @@
+.box {
+    margin-bottom: -30%;
+}
+div.P {
+    margin-left: 50px;
+    margin-top: 50px; 
+}
+div.P:hover {
+    background-color: rgba(173, 216, 230, 0.438);
+    width: 19%;
+    border-radius: 25%;
+}
+div.A {
+    margin-left: 300px;
+    margin-top: -60px;
+}
+div.A:hover {
+    background-color: rgba(173, 216, 230, 0.438);
+    width: 14%;
+    border-radius: 25%;
+}
+div.Lp {
+    margin-left: 500px;
+    margin-top: -60px;
+}
+div.Lp:hover {
+    background-color: rgba(173, 216, 230, 0.438);
+    width: 23%;
+    border-radius: 25%;
+}
+div.Fo {
+    margin-left: 800px;
+    margin-top: -60px;
+}
+div.Fo:hover {
+    background-color: rgba(173, 216, 230, 0.438);
+    width: 18%;
+    border-radius: 10%;
+}
+div.C {
+    margin-left: 800px;
+    margin-top: -60px;
+}
+div.para {
+    font-size: 150%;
+    background-color: rgba(194, 225, 255, 0.658);
+    border-radius: 5%;
+    padding: 2%;
+}
+div.Anemo {
+    background-color: rgba(16, 230, 166, 0.329);
+    width: 500px;
+    margin-left: 650px;
+    margin-top: -300px;
+    font-size: 25px;
+    border-radius: 50px;
+}
+div.Pyro {
+    background-color: rgba(146, 28, 28, 0.5);
+    width: 500px;
+    margin-left: 650px;
+    margin-top: -300px;
+    font-size: 25px;
+    border-radius: 50px;
+}
+div.Cryo {
+    background-color: rgba(22, 247, 255, 0.418);
+    width: 500px;
+    margin-left: 650px;
+    margin-top: -300px;
+    font-size: 25px;
+    border-radius: 50px;
+}
+div.Hydro {
+    background-color: rgba(9, 128, 207, 0.432);
+    width: 500px;
+    margin-left: 650px;
+    margin-top: -300px;
+    font-size: 25px;
+    border-radius: 50px;
+}
+div.Geo {
+    background-color: rgba(182, 156, 7, 0.411);
+    width: 500px;
+    margin-left: 650px;
+    margin-top: -300px;
+    font-size: 25px;
+    border-radius: 50px;
+}
+div.Electro {
+    background-color: rgba(171, 105, 233, 0.493);
+    width: 500px;
+    margin-left: 650px;
+    margin-top: -300px;
+    font-size: 25px;
+    border-radius: 50px;
+}
+div.Dendro {
+    background-color: rgba(172, 255, 47, 0.432);
+    width: 500px;
+    margin-left: 650px;
+    margin-top: -300px;
+    font-size: 25px;
+    border-radius: 50px;
+}
+u {
+    margin-left: 160px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div.box2 {
+    background-color: rgba(182, 156, 7, 0.459);
+    width: 600px;
+    margin-left: 650px;
+    margin-top: -150px;
+    border: solid 3px rgb(182, 156, 7);
+    border-radius: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div.box3 {
+    background-color: rgba(128, 0, 128, 0.432);
+    width: 600px;
+    margin-left: 650px;
+    margin-top: -150px;
+    border: solid 3px purple;
+    border-radius: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div.box4 {
+    background-color: rgba(27, 144, 184, 0.425);
+    width: 600px;
+    margin-left: 650px;
+    margin-top: -150px;
+    border: solid 3px rgb(169, 205, 218);
+    border-radius: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    color:rgb(0, 0, 0);
+    width: 1000px;
+    height: 500px;
+    margin-top: -22px;
+    margin-left: 450px;
+    border-radius: 20px;
+    background-image: url(1099191.jpg);
+    background-attachment: fixed;  
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+div.box5 {
+    margin-top: 200px;
+    width: 1000px;                    
+    font-size: 20px; 
+    background-color: rgba(70, 211, 236, 0.466);
+}
+a {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div.AC img{
+    margin-left:-400px;
+    margin-bottom: 100px;
+    width: 30%;
+}
+div.CO {
+    margin-left: 1050px;
+    width: 20%;
+    margin-top: -5%;
+    border: solid 7px rgb(161, 230, 240);
+    background-color: rgba(7, 50, 107, 0.397);
+    border-radius: 20%;
+    padding-left: 0%;
+    text-align: center;
+}
+div.box6 {
+    border: solid 3px goldenrod;
+    width: 400px;
+    background-color: goldenrod;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+p {
+    color: rgb(0, 0, 0);
+}
+h1 {
+    color:rgb(216, 161, 22);
+    
+}
+.table_a {
+    width: 100%;
+    margin-top: 10%;
+    font-size: 120%;
+    background-color: rgba(218, 165, 32, 0.466);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: italic; 
+}
+.TravelerM img {
+    width: 40%; 
+}
+.Jean img {
+    width: 40%; 
+}
+.Venti img {
+    width: 40%; 
+}
+.Sucrose img {
+    width: 40%; 
+}
+.Xiao img{
+    width: 40%; 
+}
+.Kazu img {
+    width: 40%; 
+}  
+.Sayu img {
+    width: 40%; 
+}
+.Heizou img {
+    width: 40%; 
+}
+.Amber img {
+    width: 40%; 
+}
+.Bennet img {
+    width: 40%; 
+}
+.Klee img {
+    width: 40%; 
+}
+.Diluc img{
+    width: 40%; 
+}
+.Tao img {
+    width: 40%; 
+}
+.Yan img {
+    width: 40%; 
+}
+.Xiang img {
+    width: 40%; 
+}
+.Xinyan img {
+    width: 40%; 
+}
+.Yoi img {
+    width: 40%; 
+}
+.Thom img {
+    width: 40%; 
+}
+.Barb img {
+    width: 40%; 
+}
+.Mona img {
+    width: 40%; 
+}
+.Xing img {
+    width: 40%; 
+}
+.Yelan img {
+    width: 40%; 
+}
+.Tarta img {
+    width: 40%; 
+}
+.Koko img {
+    width: 40%; 
+}
+.Ayato img {
+    width: 40%; 
+}
+.Nilou img {
+    width: 40%; 
+}
+.Cand img {
+    width: 40%; 
+}
+.Kaeya img {
+    width: 40%; 
+}
+.Diona img {
+    width: 40%; 
+}
+.Rosa img {
+    width: 40%; 
+}
+.Eula img {
+    width: 40%; 
+}
+.Chong img {
+    width: 40%; 
+}
+.Ganyu img {
+    width: 40%; 
+}
+.Qiqi img {
+    width: 40%; 
+}
+.Shen img {
+    width: 40%; 
+}
+.Ayaka img {
+    width: 40%; 
+}
+.Layla img {
+    width: 40%; 
+}
+.Noelle img {
+    width: 40%; 
+}
+.Alb img {
+    width: 40%; 
+}
+.Ning img {
+    width: 40%; 
+}
+.Zhong img {
+    width: 40%; 
+}
+.Jin img {
+    width: 40%; 
+}
+.Gorou img {
+    width: 40%; 
+}
+.Itto img {
+    width: 40%; 
+}
+.Lisa img {
+    width: 40%; 
+}
+.Razor img {
+    width: 40%; 
+}
+.Fish img {
+    width: 40%; 
+}
+.Keq img {
+    width: 40%; 
+}
+.Beid img {
+    width: 40%; 
+}
+.Raid img {
+    width: 40%; 
+}
+.Sara img {
+    width: 40%; 
+}
+.Miko img {
+    width: 40%; 
+}
+.Kuki img {
+    width: 40%; 
+}
+.Cyno img {
+    width: 40%; 
+}
+.Dori img {
+    width: 40%; 
+}
+.Tigh img {
+    width: 40%;
+}
+.Collei img {
+    width: 40%;
+}
+.Nah img {
+    width: 40%;
+}
+.Aether img {
+    width: 25%;
+}
+.Jean_F {
+    width: 40%;
+}
+.Venti_F img {
+    width: 25%;
+}
+.Sucrose_F img {
+    width: 15%;
+}
+.Sayu_F img {
+    width: 15%;
+}
+.Heizou_F img {
+    width: 20%;
+}
+.Xiao_F img {
+    width: 20%;
+}
+.Kazu_F img {
+    width: 12%;
+}
+.chara_desc {
+    background-color:  rgba(157, 234, 248, 0.534);
+    font-size: 120%;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-align: center;
+    border-radius: 10%;
+}
+.chara_stat {
+    background-color: rgba(157, 234, 248, 0.808);
+    text-align: center;
+    font-size: 140%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Amber_F img {
+    width: 19%;
+}
+.Bennet_F img {
+    width: 19%;
+}
+.Klee_F img {
+    width: 25%;
+}
+.Diluc_F img {
+    width: 17%;
+}
+.Tao_F img {
+    width: 25%;
+}
+.Yan_F img {
+    width: 19%;
+}
+.Xian_F img {
+    width: 50%;
+}
+.Xin_F img {
+    width: 19%;
+}
+.Yoi_F img {
+    width: 30%;
+}
+.Thom_F img {
+    width: 40%;
+}
+.Barb_F img {
+    width: 20%;
+}
+.Mona_F img {
+    width: 20%;
+}
+.Xinq_F img {
+    width: 40%;
+}
+.Yelan_F img {
+    width: 20%;
+}
+.Tarta_F img {
+    width: 20%;
+}
+.Koko_F img {
+    width: 30%;
+}
+.Ayato_F img {
+    width: 40%;
+}
+.Nilou_F img {
+    width: 50%;
+}
+.Cand_F img {
+    width: 50%;
+}
+.Kaeya_F img {
+    width: 20%;
+}
+.Diona_F img {
+    width: 20%;
+}
+.Rosa_F img {
+    width: 20%;
+}
+.Eula_F img {
+    width: 30%;
+}
+.connect:hover {
+    width: 250px;
+    background-color: rgba(250, 181, 8, 0.582);
+    border: 5px solid rgba(14, 146, 235, 0.582);
+    border-radius: 50px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    text-align: center;
+}
+.Formulaire {
+    border: 4px solid rgb(168, 210, 224);
+    border-radius: 5%;
+    background-color: rgba(127, 255, 212, 0.315);
+}
+.Vous_êtes h1{
+    color: rgb(8, 143, 206);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-style: italic;
+    font-size: 50px;
+}
+.CHA img {
+    width: 130px;
+}
+.MEI img {
+    width: 130px;
+}
+.AVE img {
+    width: 130px;
+}
+.EX img {
+    width: 130px;
+}
+.PAR img {
+    width: 130px;
+}
+.CB img {
+    width: 130px;
+}
+.MRC img {
+    width: 130px;
+}
+.CG img {
+    width: 130px;
+}
+.ARM img {
+    width: 130px;
+}
+.CDV img {
+    width: 130px;
+}
+.ERDI img {
+    width: 130px;
+}
+.BER img {
+    width: 130px;
+}
+.INS img {
+    width: 130px;
+}
+.SAC img {
+    width: 130px;
+}
+.SF img {
+    width: 130px;
+}
+.RD img {
+    width: 130px;
+}
+.ADC img {
+    width: 130px;
+}
+.EO img {
+    width: 130px;
+}
+.CRO img {
+    width: 130px;
+}
+.PTO img {
+    width: 130px;
+}
+.EDB img {
+    width: 130px;
+}
+.RN img {
+    width: 130px;
+}
+.TM img {
+    width: 130px;
+}
+.FB img {
+    width: 130px;
+}
+.BG img {
+    width: 130px;
+}
+.AP img {
+    width: 130px;
+}
+.MI img {
+    width: 130px;
+}
+.RA img {
+    width: 130px;
+}
+.ARR img {
+    width: 130px;
+}
+.CE img {
+    width: 130px;
+}
+.MF img {
+    width: 130px;
+}
+.SFA img {
+    width: 130px;
+}
+.DF img {
+    width: 130px;
+}
+.CT img {
+    width: 130px;
+}
+.OVC img {
+    width: 130px;
+}
+.AMC img {
+    width: 130px;
+}
+.BV img {
+    width: 130px;
+}
+.RDG img {
+    width: 130px;
+}
+figcaption {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-style: italic;
+}
+.Arte5 {
+    width: 150px;
+}
+.Arte3 {
+    width: 150px;
+}
+.Arte4 {
+    width: 150px;
+}
+.Ane {
+    background-color: rgba(12, 158, 151, 0.548);
+    width: 150px;
+    border-radius: 10px;
+}
+.Pyr {
+    background-color: rgba(218, 85, 33, 0.521);
+    width: 150px;
+    border-radius: 10px;
+}
+.Hyd {
+    background-color: rgba(48, 99, 238, 0.486);
+    width: 150px;
+    border-radius: 10px;
+}
+.Cry {
+    background-color: rgba(6, 119, 113, 0.295);
+    width: 150px;
+    border-radius: 10px;
+}
+.Ge {
+    background-color: rgba(255, 230, 4, 0.527);
+    width: 150px;
+    border-radius: 10px;
+}
+.Elec {
+    background-color: rgba(216, 16, 235, 0.63);
+    width: 150px;
+    border-radius: 10px;
+}
+.Dend {
+    background-color: rgba(8, 87, 12, 0.473);
+    width: 150px;
+    border-radius: 10px;
+}
+.FISH img {
+    width: 19%;
+}
+.Enter img:hover {
+   background-color: rgba(240, 233, 143, 0.486);
+   border-radius: 20%;
+   margin-top: 5%;
+}
